@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Newsletter Briefings</title>
+  <itunes:author>Nico</itunes:author>
+  <itunes:owner>
+    <itunes:name>Arjun Raja</itunes:name>
+    <itunes:email>ai.arjun.raja@gmail.com</itunes:email>
+  </itunes:owner>
+  <description>Condensed ten-minute audio briefings of Lenny's Newsletter and Ethan Evans' Level Up. AI generated for private listening.</description>
+  <language>en</language>
+  <itunes:category text="Business"/>
+  <itunes:explicit>false</itunes:explicit>
+  <atom:link href="https://arjun007r.github.io/newsletter-briefings/private/82c0c0ab-e0c2-4101-a069-9e437699918c/feed.xml" rel="self" type="application/rss+xml"/>
+  <itunes:image href="https://drive.google.com/uc?export=download&amp;id=1oOxlJE8JjmcR0jJMjXw-G0k2aOB_AC9j"/>
+  <image>
+    <url>https://drive.google.com/uc?export=download&amp;id=1oOxlJE8JjmcR0jJMjXw-G0k2aOB_AC9j</url>
+    <title>Newsletter Briefings</title>
+  </image>
+  <item>
+    <title>Lenny's Newsletter — October 4, 2026: OpenAI's Head of ChatGPT and the Agent Era</title>
+    <description>Nico condenses Lenny's DevDay interview with Tibo Sottiaux: Dots, the agent economy, skills trending up and down, and AI safety.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=144i2Vskt6GXGpQ1rweitXpHE15x7a7dB" length="3571429" type="audio/mpeg"/>
+    <guid isPermaLink="false">144i2Vskt6GXGpQ1rweitXpHE15x7a7dB</guid>
+    <pubDate>Sun, 04 Oct 2026 12:32:48 +0000</pubDate>
+    <itunes:duration>446</itunes:duration>
+  </item>
+  <item>
+    <title>Level Up — October 1, 2026: You Will Be Blamed for Bad Hires</title>
+    <description>Nico condenses Ethan Evans on why every hire is a referendum on your leadership, and why you should never hire the comfortable candidate.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JaRfZCDc7nSNo5LSUhY_bRZxQcBj7uTg" length="2903845" type="audio/mpeg"/>
+    <guid isPermaLink="false">1JaRfZCDc7nSNo5LSUhY_bRZxQcBj7uTg</guid>
+    <pubDate>Thu, 01 Oct 2026 12:31:00 +0000</pubDate>
+    <itunes:duration>362</itunes:duration>
+  </item>
+  <item>
+    <title>Lenny's Newsletter — September 29, 2026: Lenny and Friends Summit Talks Are Online</title>
+    <description>Nico condenses the Lenny and Friends Summit talk lineup and Lenny's five takeaways, from the PM taste renaissance to the useful-versus-new filter.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1p3ZviL6cMCdGZJwChqPMS7sa3_y-R2y9" length="2566885" type="audio/mpeg"/>
+    <guid isPermaLink="false">1p3ZviL6cMCdGZJwChqPMS7sa3_y-R2y9</guid>
+    <pubDate>Tue, 29 Sep 2026 13:15:57 +0000</pubDate>
+    <itunes:duration>320</itunes:duration>
+  </item>
+  <item>
+    <title>Level Up — September 29, 2026: How to Break Into Senior Leadership Roles</title>
+    <description>Nico condenses Ethan Evans's five-step system for senior promotions: closing gaps, the standout tweet, fear of loss, and rigging the reorg in your favor.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=18TGl_Bo33YO8Puq5cBmwNKCuLOoC6gb7" length="3055141" type="audio/mpeg"/>
+    <guid isPermaLink="false">18TGl_Bo33YO8Puq5cBmwNKCuLOoC6gb7</guid>
+    <pubDate>Tue, 29 Sep 2026 12:32:18 +0000</pubDate>
+    <itunes:duration>381</itunes:duration>
+  </item>
+  <item>
+    <title>Lenny's Newsletter — September 27, 2026: Grief, Burnout, and Legos with Molly Graham</title>
+    <description>Nico condenses Lenny's conversation with Molly Graham on why Give Away Your Legos breaks in the AI era, the grief and burnout in tech, and what the best managers are doing now.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1yBMcajYt1_-pDhwEh80IZZil6A45-q8Y" length="2489701" type="audio/mpeg"/>
+    <guid isPermaLink="false">1yBMcajYt1_-pDhwEh80IZZil6A45-q8Y</guid>
+    <pubDate>Sun, 27 Sep 2026 12:32:18 +0000</pubDate>
+    <itunes:duration>311</itunes:duration>
+  </item>
+  <item>
+    <title>Lenny's Newsletter — September 24, 2026: Inside an AI-Native Company</title>
+    <description>Nico condenses Elena Verna's field notes from Lovable: no titles, flat orgs, the high-impact IC era, and what AI changes about management itself.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1s0lAeVjOJpiUk7S4JydVmThyx2-3MZnk" length="3144997" type="audio/mpeg"/>
+    <guid isPermaLink="false">1s0lAeVjOJpiUk7S4JydVmThyx2-3MZnk</guid>
+    <pubDate>Thu, 24 Sep 2026 12:31:50 +0000</pubDate>
+    <itunes:duration>393</itunes:duration>
+  </item>
+  <item>
+    <title>Level Up — September 24, 2026: Is the Big Tech Career Rocket Ride Ending?</title>
+    <description>Nico condenses Ethan Evans on the environment-growth formula for careers, why Big Tech is still a great MBA but a weaker rocket, and why flattening doesn't simplify management.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DtJSYSn77AdrOKy-QokTxVJKQkyDSdjO" length="2784613" type="audio/mpeg"/>
+    <guid isPermaLink="false">1DtJSYSn77AdrOKy-QokTxVJKQkyDSdjO</guid>
+    <pubDate>Thu, 24 Sep 2026 12:31:50 +0000</pubDate>
+    <itunes:duration>348</itunes:duration>
+  </item>
+  <item>
+    <title>Lenny's Newsletter — September 22, 2026: Advanced Evals for AI Products</title>
+    <description>Nico condenses Hamel and Shreya's advanced guide to evals: error discovery, criteria drift, and the three-step workflow for finding hidden AI failures.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=19zqWfUqZDH2nCIP8XSJSMxNhggZI8PJO" length="2978917" type="audio/mpeg"/>
+    <guid isPermaLink="false">19zqWfUqZDH2nCIP8XSJSMxNhggZI8PJO</guid>
+    <pubDate>Tue, 22 Sep 2026 12:32:00 +0000</pubDate>
+    <itunes:duration>372</itunes:duration>
+  </item>
+  <item>
+    <title>Lenny's Newsletter — September 20, 2026: Unfiltered Product Advice from Peter Sellis</title>
+    <description>Nico condenses ninety minutes with Peter Sellis, first PM at Snapchat and former Head of Product at Discord: team design, the median PM, and growth from the core product.
+
+AI generated briefing for private listening.</description>
+    <enclosure url="https://drive.google.com/uc?export=download&amp;id=1483YkGIaK_lOgQ2Ll53ckVd1Q9m2CXvT" length="2490661" type="audio/mpeg"/>
+    <guid isPermaLink="false">1483YkGIaK_lOgQ2Ll53ckVd1Q9m2CXvT</guid>
+    <pubDate>Sun, 20 Sep 2026 12:32:00 +0000</pubDate>
+    <itunes:duration>311</itunes:duration>
+  </item>
+</channel>
+</rss>
